@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "test_read_data_data_types",
+      "setup": "",
+      "run": "python3 auto_grader.py test_read_data_data_types",
+      "input": "test_read_data_data_types",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "test_read_data_len_train_data",
+      "setup": "",
+      "run": "python3 auto_grader.py test_read_data_len_train_data",
+      "input": "test_read_data_len_train_data",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test_generate_vocabs",
+      "setup": "",
+      "run": "python3 auto_grader.py test_generate_vocabs",
+      "input": "test_generate_vocabs",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test_hmm",
+      "setup": "",
+      "run": "python3 auto_grader.py test_hmm",
+      "input": "test_hmm",
+      "output": "2",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "test_hmm",
+      "setup": "",
+      "run": "python3 auto_grader.py test_hmm",
+      "input": "test_hmm",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 30
+    },
+    {
+      "name": "test_embeddings_model",
+      "setup": "",
+      "run": "python3 auto_grader.py test_embeddings_model",
+      "input": "test_embeddings_model",
+      "output": "2",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "test_embeddings_model",
+      "setup": "",
+      "run": "python3 auto_grader.py test_embeddings_model",
+      "input": "test_embeddings_model",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 30
+    }, 
+    {
+      "name": "test_nltk_tagger",
+      "setup": "",
+      "run": "python3 auto_grader.py test_nltk_tagger",
+      "input": "test_nltk_tagger",
+      "output": "2",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "test_nltk_tagger",
+      "setup": "",
+      "run": "python3 auto_grader.py test_nltk_tagger",
+      "input": "test_nltk_tagger",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
