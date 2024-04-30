@@ -12,17 +12,15 @@ Copy the content of the `tests.py` file (as is) to the designated code cell in t
 It will produce and download the `results.json` file with the results of the tests.
 Please replace the existing results file of this repo with your current one!
 
-## Autograding for This Assignment
+### Autograding for This Assignment
 
-This assignment uses an autograding system that provides feedback a bit differently than usual. Here's what to keep in mind:
+This assignment uses an autograding system that may seem a bit different. Keep the following points in mind:
 
-* **Your total score out of 150** is the most important metric. This score accurately reflects your performance.
-* **Ignore the global checkmarks (✅) or Xs (❌) next to the tests.** These are based on a separate internal grading scale and might not accurately represent your performance for this assignment.
+1. **Total Score Matters:** Your final grade out of 100 is the primary indicator of your performance. This is the maximum achievable score for this assignment.
 
-Here's why: While the maximum achievable score is 100 points, the autograder might use a system with higher thresholds. This means you could get a perfect score (100 points) but see an (❌) next to some tests (or even globally). Don't be concerned about that!
+2. **Ignore Additional Metrics:** The autograder might display a higher threshold in its grading scale, leading to a total score of 150. This can result in checkmarks (✅) or Xs (❌) next to specific tests, or even globally. These indicators do not accurately reflect your grade.
 
-Just focus on your total score out of 150. That's the one that truly tells you how well you did!
-
+3. **Focus on Your Score:** Your final score out of 100 is the most accurate measure of how well you did. Remember, even if you see discrepancies in individual tests, they don't affect your final score, which is capped at 100.
 
 ## Submission
 - **Notebook Link**: In the `notebook_link.txt` file, add the URL to your assignment's notebook, following the format provided in the example.
